@@ -1,7 +1,4 @@
 <h1 align="center">
-  <br>
-
-  <br>
   Red Discord Bot
   <br>
 </h1>
